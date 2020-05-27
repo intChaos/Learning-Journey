@@ -1,0 +1,53 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a, b;
+    cout << "--------type in a number to add \n";
+    cin >> a;
+    cout << "--------set number again. \n";
+    cin >> b;
+    int sum = a + b;
+    cout << "answer = " << sum << endl;
+    return 0;
+}
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a, b;
+    cout << "--------type in a number to add \n";
+    cin >> a;
+    cout << "--------set number again. \n";
+    cin >> b;
+    int sum = a + b;
+    cout << "answer = " << sum << endl;
+    return 0;
+}
+
+//calculator that adds 2 numbers.
+// another similar one.. if not almost same
+
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a, b, c;
+    cout << "--- Please enter a number .. -- \n ";
+    cin >> a;
+    cout << "--- Please enter a number again.. -- \n ";
+    cin >> b;
+    cout << "--- one more please.. -- \n ";
+    cin >> c;
+    int sum = a + b + c;
+    cout << "----- \n Answer for all 3 added up is... = " << sum;
+    return 0;
+}
+
+//Different calculators. 1 with user input, 1 without
