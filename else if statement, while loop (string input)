@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	string input;
+	cout << "Who Likes To Code? ";
+	cin >> input;
+
+	if (input == "me")
+		cout << "Hooray";
+
+	else
+		while
+			(cout << "Be Gone ");
+}
