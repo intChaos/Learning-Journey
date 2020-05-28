@@ -8,8 +8,8 @@ int main()
     cin >> num;
 
     if (num == 20)
-        cout << "good job" << endl;
+        cout << "Right" << endl;
 
     if (num != 20)
-        cout << "wrong";
+        cout << "Wrong";
 }
