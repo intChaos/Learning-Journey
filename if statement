@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int num;
+    cout << "whats 10 + 10" << endl;
+    cin >> num;
+
+    if (num == 20)
+        cout << "good job" << endl;
+
+    if (num != 20)
+        cout << "wrong";
+}
