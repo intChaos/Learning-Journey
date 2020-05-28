@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a = 10;
+    int b = 20;
+    int sum = a + b;
+    cout << sum;
+}
+//Calculator gives sum of 2 pre determined numbers
