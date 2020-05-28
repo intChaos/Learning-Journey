@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int num;
+	cout << "What does 10 + 20 = ";
+	cin >> num;
+
+	if (num == 30)
+		cout << "Right";
+
+	else
+		while
+		(cout << "Wrong ");
+}
