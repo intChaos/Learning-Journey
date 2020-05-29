@@ -5,6 +5,7 @@ int main()
 {
 	int x = 10;
 	cout << x;
+	
 	return 0;
 }
 //declaring x to equal 10 and cout-ing x
