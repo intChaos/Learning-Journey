@@ -14,7 +14,6 @@ int main()
 	sum = a + b;
 	cout << "The sum of your numbers is " << sum << endl;
 
-
 	return 0;
 }
 //another calculator declaring varaibles first
