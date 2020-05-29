@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "I Like Pretzels ";
+	cout << "With Cheese Sauce";
+	return 0;
+}
+//multiple cout lines, but it comes out on a single line
