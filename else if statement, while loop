@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 	int num;
+	
 	cout << "What does 10 + 20 = ";
 	cin >> num;
 
