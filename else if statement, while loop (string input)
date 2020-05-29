@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 	string input;
+	
 	cout << "Who Likes To Code? ";
 	cin >> input;
 
