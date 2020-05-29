@@ -13,5 +13,5 @@ int main()
 	else
 		while
 		(cout << "Wrong ");
-		return 0;
+	return 0;
 }
