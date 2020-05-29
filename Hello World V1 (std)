@@ -4,5 +4,6 @@ int main()
 {
 	std::cout << "Hello World" << std::endl;
 	std::cin.get();
+	return 0;
 }
 //This is day 1 code 1 of my long grueling journey
