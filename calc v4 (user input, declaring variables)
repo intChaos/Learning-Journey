@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int a;
+	int b;
+	int sum;
+
+	cout << "Enter A Number\n";
+	cin >> a;
+	cout << "Enter Another Number\n";
+	cin >> b;
+	sum = a + b;
+	cout << "The sum of your numbers is " << sum << endl;
+
+
+	return 0;
+}
+//another calculator declaring varaibles first
