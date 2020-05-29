@@ -10,6 +10,7 @@ int main()
 	cin >> b;
 	int sum = a + b;
 	cout << "The sum is " << sum;
+	
 	return 0;
 }
 //calculator asks question after each input
