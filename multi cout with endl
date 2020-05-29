@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "Boy I Love Bacon " << endl;
+	cout << "And Ham";
+	return 0;
+}
+//multi cout lines, with endl to print on new line
