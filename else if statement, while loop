@@ -13,5 +13,6 @@ int main()
 	else
 		while
 		(cout << "Wrong ");
+		
 	return 0;
 }
