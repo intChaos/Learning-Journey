@@ -12,5 +12,5 @@ int main()
 
     else
         cout << "Wrong";
-        return 0;
+    return 0;
 }
