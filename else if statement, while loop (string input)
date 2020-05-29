@@ -13,5 +13,6 @@ int main()
 	else
 		while
 			(cout << "Be Gone ");
+			
 	return 0;
 }
