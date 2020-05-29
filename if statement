@@ -12,4 +12,5 @@ int main()
 
     if (num != 20)
         cout << "Wrong";
+    return 0;
 }
