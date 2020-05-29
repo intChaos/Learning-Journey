@@ -8,5 +8,6 @@ int main()
 	cin >> a >> b;
 	sum = a + b;
 	cout << "The sum is " << sum;
+	return 0;
 }
 //calculator that does not say anything after inputs
