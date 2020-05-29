@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "I\nWant\nPizza\nRight\nNow";
+	return 0;
+}
+//multiple \n's for one line of code
