@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int pizza = 100;
+
+	pizza = 50;
+
+	cout << pizza;
+
+	return 0;
+}
+//second variable overwrites first and displays overwritten variable
