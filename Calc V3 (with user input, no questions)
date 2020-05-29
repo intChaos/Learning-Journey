@@ -4,8 +4,10 @@ using namespace std;
 int main()
 {
 	int a, b, sum;
+	
 	cout << "Enter 2 Numbers to Add" << endl;
 	cin >> a >> b;
+	
 	sum = a + b;
 	cout << "The sum is " << sum;
 	
