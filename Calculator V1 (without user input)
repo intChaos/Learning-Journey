@@ -7,5 +7,6 @@ int main()
     int b = 20;
     int sum = a + b;
     cout << sum;
+    return 0;
 }
 //Calculator gives sum of 2 pre determined numbers
