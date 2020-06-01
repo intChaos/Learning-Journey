@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int x = 24 % 7;
+	cout << x;
+
+	return 0;
+}
+//modulus which is used to show remainder
