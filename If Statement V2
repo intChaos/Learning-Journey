@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	if (3>=3) {
+		cout << "I like ice cream";
+	}
+
+	return 0;
+}
+//i just like the layout of this better than the first if statement program
