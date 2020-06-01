@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int x = 6 * (4 + 8) - 4 + 9 / 20;
+	cout << x;
+
+	return 0;
+}
+//PEMDAS
