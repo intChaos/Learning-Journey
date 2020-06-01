@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int a = 65;
+	int b = 34;
+
+	if (a == b) {
+		cout << "I like ice cream";
+	}
+
+	return 0;
+}
+//can test >, <, >=, <=, == , or !=. Can also test variable and value in same statement
