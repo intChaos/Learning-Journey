@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+void printWords();
+
+int main()
+{
+	printWords();
+	return 0;
+}
+
+void printWords() {
+	cout << "These are words in a sentence" << endl;
+}
+//another way to configure code to read functions by "prototyping" (letting it know ahead of time) 
+to look for function
