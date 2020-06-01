@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+void printWords(int x) {
+	cout << "My favorite number is " << x << endl;
+}
+
+int main()
+{
+	printWords(25);
+	return 0;
+}
