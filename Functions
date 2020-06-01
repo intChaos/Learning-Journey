@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+void printWords() {
+	cout << "These are words in a sentence" << endl;
+}
+
+int main()
+{
+	printWords();
+	return 0;
+}
+//how to properly configure code to read your functions
