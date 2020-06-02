@@ -1,0 +1,25 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+class MyClass {
+public:
+	void setName(string x) {
+		name = x;
+	}
+	string getName() {
+		return name;
+	}
+private:
+	string name;
+};
+
+int main()
+{
+	MyClass mo;
+	mo.setName("Watermelon Pineapple");
+	cout << mo.getName();
+	return 0;
+}
+//using both public and private classes 
+and how to grab code from private, with variable
