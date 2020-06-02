@@ -3,15 +3,15 @@
 using namespace std;
 
 class MyClass {
-public:
-	void setName(string x) {
-		name = x;
-	}
-	string getName() {
-		return name;
-	}
-private:
-	string name;
+	public:
+		void setName(string x) {
+			name = x;
+		}
+		string getName() {
+			return name;
+		}
+	private:
+		string name;
 };
 
 int main()
