@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int apple = 0;
+
+	while (apple <= 5) {
+		cout << "apple is " << apple << endl;
+		apple = apple + 1;
+	}
+
+	return 0;
+}
+//this loop gets stopped whenever "apple" is equal to 5. 
+Leaving out "apple = apple + 1;" will have the loop run
+forever
